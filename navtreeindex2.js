@@ -126,7 +126,7 @@ var NAVTREEINDEX2 =
 "db/d8b/struct_node.html#a772e2a82248c0d0dfc5cdf19d5b45df9":[13,0,23,2],
 "db/d8b/struct_node.html#a87c003c9f600e3fc58e6e90835f0b605":[13,0,23,0],
 "db/dd5/prime__seive_8c.html":[14,0,8,8],
-"db/dd5/prime__seive_8c.html#a755a370812a5c314712719ca48af8261":[14,0,8,8,4],
+"db/dd5/prime__seive_8c.html#a3b9beb46a4ecece535d342d48d9c3e97":[14,0,8,8,4],
 "db/ddb/hello__world_8h_source.html":[14,0,3,1,0],
 "db/ddf/insertion__sort_8c.html":[14,0,12,3],
 "db/ddf/insertion__sort_8c.html#a0d6c227641a5e0dae580b3a18df241fb":[14,0,12,3,0],
