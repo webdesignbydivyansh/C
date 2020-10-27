@@ -120,7 +120,7 @@ var NAVTREEINDEX =
 "annotated.html",
 "d4/dcc/strong__number_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
 "d8/d71/group__k__means.html#gad229b1dc406cb5ea510f26a373ed8bfd",
-"de/d7b/group__vec__3d.html#ga5082b0720c2cc51ae84bf19bd76dc849"
+"de/d7b/group__vec__3d.html#ga94805165d037d111d7d7c0df99e3a5de"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
