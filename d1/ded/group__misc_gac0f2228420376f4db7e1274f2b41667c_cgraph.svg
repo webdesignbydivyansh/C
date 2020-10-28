@@ -51,7 +51,7 @@
 <!-- Node4 -->
 <g id="node4" class="node">
 <title>Node4</title>
-<g id="a_node4"><a xlink:href="../../d1/ded/group__misc.html#gac1a7a8e00eeb590511465c28fae16e54" target="_top" xlink:title="Prime Sieve works in O(nlogn) time.">
+<g id="a_node4"><a xlink:href="../../d1/ded/group__misc.html#ga950b2444b127f1169ec553ac70c20584" target="_top" xlink:title="Prime Sieve works in O(nlogn) time.">
 <polygon fill="white" stroke="black" points="143,-0.5 143,-19.5 184,-19.5 184,-0.5 143,-0.5"/>
 <text text-anchor="middle" x="163.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">prime</text>
 </a>

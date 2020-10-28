@@ -4,7 +4,7 @@ var searchData=
   ['poly_5ffunction_583',['poly_function',['../da/d38/durand__kerner__roots_8c.html#a321f9781a9744ccdaf0aba89f35ec29c',1,'durand_kerner_roots.c']]],
   ['postorder_5fdisplay_584',['postorder_display',['../df/d3c/threaded__binary__trees_8c.html#a5a82ae0ee13788be51ca4ba6cddb0719',1,'threaded_binary_trees.c']]],
   ['preorder_5fdisplay_585',['preorder_display',['../df/d3c/threaded__binary__trees_8c.html#a8169ba0dfd5b8183672e444d1434bf9c',1,'threaded_binary_trees.c']]],
-  ['prime_586',['prime',['../d1/ded/group__misc.html#gac1a7a8e00eeb590511465c28fae16e54',1,'prime_seive.c']]],
+  ['prime_586',['prime',['../d1/ded/group__misc.html#ga950b2444b127f1169ec553ac70c20584',1,'prime_seive.c']]],
   ['print_587',['print',['../dc/d80/cantor__set_8c.html#a75ee530cd7148a63249784ad3dda8fab',1,'print(CantorSet *head):&#160;cantor_set.c'],['../d5/df4/group__sudoku.html#ga702ff4f95dde780c7d04fcdd1021b6c1',1,'print(const struct sudoku *a):&#160;sudoku_solver.c']]],
   ['print_5fmatrix_588',['print_matrix',['../d4/d68/qr__decompose_8h.html#a90562ce8c3707401e9c5809dece68d6a',1,'qr_decompose.h']]],
   ['print_5fnumber_589',['print_number',['../db/d01/problem__13_2sol1_8c.html#a248adc917818cc6666d8bc679a660319',1,'print_number(uint8_t *number, uint8_t N, int8_t num_digits_to_print):&#160;sol1.c'],['../d8/d32/problem__25_2sol1_8c.html#abe5bc1f170b2108a19d0a16d30bd3235',1,'print_number(unsigned char *number, int N):&#160;sol1.c']]],
