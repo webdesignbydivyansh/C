@@ -150,10 +150,10 @@ int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../..
   </dd>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>0 on exit </dd></dl>
-<div class="fragment"><div class="line"><a name="l00068"></a><span class="lineno">   68</span>&#160;{</div>
-<div class="line"><a name="l00069"></a><span class="lineno">   69</span>&#160;    <a class="code" href="../../d1/ded/group__misc.html#gaa8dca7b867074164d5f45b0f3851269d">test</a>(); <span class="comment">//execute the test</span></div>
-<div class="line"><a name="l00070"></a><span class="lineno">   70</span>&#160;    <span class="keywordflow">return</span> 0;</div>
-<div class="line"><a name="l00071"></a><span class="lineno">   71</span>&#160;}</div>
+<div class="fragment"><div class="line"><a name="l00070"></a><span class="lineno">   70</span>&#160;{</div>
+<div class="line"><a name="l00071"></a><span class="lineno">   71</span>&#160;    <a class="code" href="../../d1/ded/group__misc.html#gaa8dca7b867074164d5f45b0f3851269d">test</a>(); <span class="comment">//execute the test</span></div>
+<div class="line"><a name="l00072"></a><span class="lineno">   72</span>&#160;    <span class="keywordflow">return</span> 0;</div>
+<div class="line"><a name="l00073"></a><span class="lineno">   73</span>&#160;}</div>
 </div><!-- fragment --><div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -241,12 +241,14 @@ Here is the call graph for this function:</div>
 <div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160;    <span class="comment">// Test Case 1</span></div>
 <div class="line"><a name="l00053"></a><span class="lineno">   53</span>&#160;    <span class="keyword">const</span> <span class="keywordtype">int</span> size = 10; <span class="comment">/* array size */</span></div>
 <div class="line"><a name="l00054"></a><span class="lineno">   54</span>&#160;    printf(<span class="stringliteral">&quot;Test Case 1...&quot;</span>);</div>
-<div class="line"><a name="l00055"></a><span class="lineno">   55</span>&#160;    <span class="keywordtype">int</span> arr[size]={0};   <span class="comment">/* array to store prime numbers */</span></div>
-<div class="line"><a name="l00056"></a><span class="lineno">   56</span>&#160;    <a class="code" href="../../d1/ded/group__misc.html#ga950b2444b127f1169ec553ac70c20584">prime</a>(arr,size);</div>
-<div class="line"><a name="l00057"></a><span class="lineno">   57</span>&#160;    assert(<a class="code" href="../../d1/ded/group__misc.html#ga6f8e8c9d25b5891d57e588d80d75028a">count</a>(arr,size)==4);</div>
-<div class="line"><a name="l00058"></a><span class="lineno">   58</span>&#160;    printf(<span class="stringliteral">&quot;Passed\n&quot;</span>);</div>
-<div class="line"><a name="l00059"></a><span class="lineno">   59</span>&#160; </div>
-<div class="line"><a name="l00060"></a><span class="lineno">   60</span>&#160;}</div>
+<div class="line"><a name="l00055"></a><span class="lineno">   55</span>&#160;    <span class="keywordtype">int</span> arr[size];   <span class="comment">/* array to store prime numbers */</span></div>
+<div class="line"><a name="l00056"></a><span class="lineno">   56</span>&#160;    <span class="keywordflow">for</span>(<span class="keywordtype">int</span> i=0;i&lt;=size;i++)</div>
+<div class="line"><a name="l00057"></a><span class="lineno">   57</span>&#160;    arr[i]=0;</div>
+<div class="line"><a name="l00058"></a><span class="lineno">   58</span>&#160;    <a class="code" href="../../d1/ded/group__misc.html#ga950b2444b127f1169ec553ac70c20584">prime</a>(arr,size);</div>
+<div class="line"><a name="l00059"></a><span class="lineno">   59</span>&#160;    assert(<a class="code" href="../../d1/ded/group__misc.html#ga6f8e8c9d25b5891d57e588d80d75028a">count</a>(arr,size)==4);</div>
+<div class="line"><a name="l00060"></a><span class="lineno">   60</span>&#160;    printf(<span class="stringliteral">&quot;Passed\n&quot;</span>);</div>
+<div class="line"><a name="l00061"></a><span class="lineno">   61</span>&#160; </div>
+<div class="line"><a name="l00062"></a><span class="lineno">   62</span>&#160;}</div>
 </div><!-- fragment --><div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
