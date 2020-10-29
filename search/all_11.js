@@ -12,7 +12,7 @@ var searchData=
   ['pow_246',['pow',['../df/d86/structterm.html#a057f161d279d856d11786aa96fc87f74',1,'term']]],
   ['preorder_5fdisplay_247',['preorder_display',['../df/d3c/threaded__binary__trees_8c.html#a8169ba0dfd5b8183672e444d1434bf9c',1,'threaded_binary_trees.c']]],
   ['prev_5fdigit_248',['prev_digit',['../dc/d77/struct__big__int.html#ad8405989a924410942b39ec0e9fef30b',1,'_big_int']]],
-  ['prime_249',['prime',['../d1/ded/group__misc.html#ga950b2444b127f1169ec553ac70c20584',1,'prime_seive.c']]],
+  ['prime_249',['prime',['../d1/ded/group__misc.html#gac1a7a8e00eeb590511465c28fae16e54',1,'prime_seive.c']]],
   ['prime_2ec_250',['prime.c',['../da/d93/prime_8c.html',1,'']]],
   ['prime_5fseive_2ec_251',['prime_seive.c',['../db/dd5/prime__seive_8c.html',1,'']]],
   ['print_252',['print',['../dc/d80/cantor__set_8c.html#a75ee530cd7148a63249784ad3dda8fab',1,'print(CantorSet *head):&#160;cantor_set.c'],['../d5/df4/group__sudoku.html#ga702ff4f95dde780c7d04fcdd1021b6c1',1,'print(const struct sudoku *a):&#160;sudoku_solver.c']]],
