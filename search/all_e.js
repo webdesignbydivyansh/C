@@ -15,7 +15,7 @@ var searchData=
   ['max_5flength_198',['MAX_LENGTH',['../d4/d83/problem__401_2sol1_8c.html#a7a9a231e30b47bc0345749c8bd1e5077',1,'sol1.c']]],
   ['max_5fname_5flen_199',['MAX_NAME_LEN',['../dd/d8b/problem__22_2sol1_8c.html#afd709f201d7643c3909621f620ea648a',1,'sol1.c']]],
   ['max_5fnames_200',['MAX_NAMES',['../dd/d8b/problem__22_2sol1_8c.html#a6cb9b08aacb61416795ee78bfceacd38',1,'sol1.c']]],
-  ['max_5fsize_201',['MAX_SIZE',['../df/df3/union__find_8c.html#a0592dba56693fad79136250c11e5a7fe',1,'union_find.c']]],
+  ['max_5fsize_201',['MAX_SIZE',['../df/df3/union__find_8c.html#a0592dba56693fad79136250c11e5a7fe',1,'MAX_SIZE():&#160;union_find.c'],['../db/dd5/prime__seive_8c.html#ac1215a37edfa07d37edf6ec65f2235c7',1,'MAX_SIZE():&#160;prime_seive.c']]],
   ['maxline_202',['MAXLINE',['../da/de6/udp__client_8c.html#a3e937c42922f7601edb17b747602c471',1,'MAXLINE():&#160;udp_client.c'],['../d8/dca/udp__server_8c.html#a3e937c42922f7601edb17b747602c471',1,'MAXLINE():&#160;udp_server.c']]],
   ['merge_203',['merge',['../d5/d4c/group__sorting.html#ga8dc3ec66cb3350313fdb34bfd1674729',1,'merge_sort.c']]],
   ['merge_5fsort_204',['merge_sort',['../d5/d4c/group__sorting.html#gab99b8a397bdd0bf2903d66c22ba4ba43',1,'merge_sort.c']]],
